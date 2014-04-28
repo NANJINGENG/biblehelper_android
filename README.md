@@ -7,7 +7,7 @@
 若您要发表评论或提交问题，[请戳这里](https://github.com/elijahcn/biblehelper_android/issues)，或者发送邮件到[support@elijah.com.cn](mailto:support@elijah.com.cn)
 
 -----
-# 开发和编译
+# 编译
 
 编译环境：Android 2.3.3
 
