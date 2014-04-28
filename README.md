@@ -9,14 +9,14 @@
 
 编译环境：Android 2.3.3
 
-开发环境：Android Developer Tools，Build: v22.6.2-1085508
+开发环境：[Android Developer Tools](http://developer.android.com/sdk/index.html)，Build: v22.6.2-1085508
 
 -----
 # 下载
 
 下载源代码：[请戳这里](https://github.com/elijahcn/biblehelper_android/archive/master.zip)
 
-下载APK安装包：[请戳这里](https://github.com/elijahcn/biblehelper_android/blob/master/BibleHelper.apk?raw=true) 运行环境：Android 2.3.3及以上版本
+下载APK安装包：[请戳这里](https://github.com/elijahcn/biblehelper_android/blob/master/BibleHelper.apk?raw=true) 运行环境：Android 2.3.3及以上
 
 打包下载语音文件：[请戳这里](http://yun.baidu.com/s/1eQAAXrW)
 
