@@ -1,6 +1,6 @@
 ﻿# 圣经助手 Android 版
 
-![image](https://github.com/elijahcn/biblehelper_android/raw/master/screenshot1.jpg)
+![image](https://github.com/elijahcn/biblehelper_android/raw/master/screenshot1.png)
 
 圣经助手是一款免费的圣经阅读APP，由沈阳以利亚科技有限公司开发及维护。
 
