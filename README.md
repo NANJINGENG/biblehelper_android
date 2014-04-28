@@ -7,6 +7,8 @@
 
 编译环境：Android 2.3.3
 
+运行环境：Android 2.3.3及以上版本
+
 开发环境：Android Developer Tools，Build: v22.6.2-1085508
 
 下载APK安装包：[请戳这里](https://github.com/elijahcn/biblehelper_android/blob/master/BibleHelper.apk?raw=true)
