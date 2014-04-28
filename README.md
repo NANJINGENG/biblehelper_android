@@ -9,7 +9,7 @@
 
 编译环境：Android 2.3.3
 
-开发环境：[Android Developer Tools](http://developer.android.com/sdk/index.html)，Build: v22.6.2-1085508
+开发环境：Android Developer Tools，Build: v22.6.2-1085508 [下载开发工具请戳这里](http://developer.android.com/sdk/index.html)
 
 -----
 # 下载
