@@ -1,4 +1,4 @@
-﻿# 圣经助手 Android 版
+# 圣经助手 Android 版
 
 ![image](https://github.com/ElijahLabs/biblehelper_android/raw/master/screenshot1.png)
 
